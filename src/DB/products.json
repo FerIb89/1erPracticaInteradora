@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "title": "reel marca Beast",
+        "description": "4 rulemanes manija izq o der",
+        "price": 1200,
+        "code": "cod 1",
+        "stock": 15,
+        "status": true,
+        "category": "pesca",
+        "thumbnail": [
+            "none"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "caña de pescar",
+        "description": "2 tramos total de 1,80m",
+        "price": 800,
+        "code": "cod 2",
+        "stock": 25,
+        "status": true,
+        "category": "pesca",
+        "thumbnail": [
+            "none"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "caña de pescar Fish",
+        "description": "1 tramo de 2.10",
+        "price": 12320,
+        "code": "cod 3",
+        "stock": 24,
+        "status": true,
+        "category": "pesca",
+        "thumbnail": [
+            "none"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Carpa camuflada",
+        "description": "Carpa para 4 personas",
+        "price": 50000,
+        "code": "cod 4",
+        "stock": 12,
+        "status": true,
+        "category": "camping",
+        "thumbnail": [
+            "as.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Termo Sifon",
+        "description": "2.5 litros de acero inoxidable",
+        "price": 32000,
+        "code": "cod 5",
+        "stock": 32,
+        "status": "true",
+        "category": "camping",
+        "thumbnail": [
+            ""
+        ]
+    }
+]
